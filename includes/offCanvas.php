@@ -6,7 +6,7 @@
                     <div class="offcanvas__content">
                         <div class="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                             <div class="offcanvas__logo">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <img src="assets/img/logo/black-logo.svg" alt="logo-img">
                                 </a>
                             </div>
@@ -60,7 +60,7 @@
                                 </li>
                             </ul>
                         </div>
-                       <a href="contact.html" class="theme-btn">Get A Quote <i class="fa-solid fa-arrow-up-right"></i></a>
+                       <a href="contact.php" class="theme-btn">Get A Quote <i class="fa-solid fa-arrow-up-right"></i></a>
                     </div>
                 </div>
             </div>

@@ -7,7 +7,7 @@
                                 <div class="col-xl-4 col-lg-6 col-md-7 wow fadeInUp" data-wow-delay=".2s">
                                     <div class="footer-widget-items">
                                         <div class="widget-head">
-                                            <a href="index.html">
+                                            <a href="index.php">
                                                 <img src="assets/img/logo/white-logo.svg" alt="img">
                                             </a>
                                         </div>
@@ -15,7 +15,7 @@
                                         <h3 class="title">
                                                 Harness the Sun Get Solar Power Today!
                                         </h3>
-                                        <a href="contact.html" class="theme-btn">
+                                        <a href="contact.php" class="theme-btn">
                                                 Contact Us Today
                                                 <i class="fa-solid fa-arrow-up-right"></i>
                                             </a>
@@ -31,32 +31,32 @@
                                         </div>
                                         <ul class="list-area">
                                             <li>
-                                                <a href="about.html">
+                                                <a href="about.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> About Company
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="team.html">
+                                                <a href="team.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> Meet Member
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> Contact Us
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="contact.html">
+                                                <a href="contact.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> 24/7 Support
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="faq.html">
+                                                <a href="faq.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> Our FAQs
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="pricing.html">
+                                                <a href="pricing.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> Pricing Plan
                                                 </a>
                                             </li>
@@ -72,32 +72,32 @@
                                         </div>
                                         <ul class="list-area">
                                             <li>
-                                                <a href="service-details.html">
+                                                <a href="service-details.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> Solar Maintenance
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="service-details.html">
+                                                <a href="service-details.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> Energy Saving Devices
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="service-details.html">
+                                                <a href="service-details.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> Solar Solutions
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="service-details.html">
+                                                <a href="service-details.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> Renewable Energy
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="service-details.html">
+                                                <a href="service-details.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> Hybrid Energy
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="service-details.html">
+                                                <a href="service-details.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> Solar PV Systems
                                                 </a>
                                             </li>

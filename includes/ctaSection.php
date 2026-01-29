@@ -7,7 +7,7 @@
                                 <img src="assets/img/home-1/cta-image.png" alt="img">
                             </div>
                             <h3 class="text-anim">Power Your Home or Business <br> with Green Energy</h3>
-                            <a href="contact.html" class="theme-btn wow fadeInUp" data-wow-delay=".4s">
+                            <a href="contact.php" class="theme-btn wow fadeInUp" data-wow-delay=".4s">
                                 Learn More
                                 <i class="fa-solid fa-arrow-up-right"></i>
                             </a>

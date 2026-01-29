@@ -35,11 +35,11 @@
                                             </svg>
                                         </div>
                                         <div class="content">
-                                            <h3><a href="service-details.html">Wind Eco-Power</a></h3>
+                                            <h3><a href="service-details.php">Wind Eco-Power</a></h3>
                                             <p>Energy to more people in more ways every day, so that all of us can be part of the changing energy system.</p>
                                         </div>
                                     </div>
-                                    <a href="service-details.html" class="link-btns">
+                                    <a href="service-details.php" class="link-btns">
                                         View Details
                                     </a>
                                 </div>
@@ -58,11 +58,11 @@
                                         </svg>
                                     </div>
                                     <div class="content">
-                                        <h3><a href="service-details.html">Renewable Energy</a></h3>
+                                        <h3><a href="service-details.php">Renewable Energy</a></h3>
                                         <p>Energy to more people in more ways every day, so that all of us can be part of the changing energy system.</p>
                                     </div>
                                 </div>
-                                <a href="service-details.html" class="link-btns">
+                                <a href="service-details.php" class="link-btns">
                                     View Details
                                 </a>
                             </div>
@@ -79,11 +79,11 @@
                                         </svg>
                                     </div>
                                     <div class="content">
-                                        <h3><a href="service-details.html">Solar Maintenance</a></h3>
+                                        <h3><a href="service-details.php">Solar Maintenance</a></h3>
                                         <p>Energy to more people in more ways every day, so that all of us can be part of the changing energy system.</p>
                                     </div>
                                 </div>
-                                <a href="service-details.html" class="link-btns">
+                                <a href="service-details.php" class="link-btns">
                                     View Details
                                 </a>
                             </div>
@@ -98,11 +98,11 @@
                                         </svg>
                                     </div>
                                     <div class="content">
-                                        <h3><a href="service-details.html">Energy Saving Devices</a></h3>
+                                        <h3><a href="service-details.php">Energy Saving Devices</a></h3>
                                         <p>Energy to more people in more ways every day, so that all of us can be part of the changing energy system.</p>
                                     </div>
                                 </div>
-                                <a href="service-details.html" class="link-btns">
+                                <a href="service-details.php" class="link-btns">
                                     View Details
                                 </a>
                             </div>
@@ -127,11 +127,11 @@
 
                                     </div>
                                     <div class="content">
-                                        <h3><a href="service-details.html">Wind Eco-Power</a></h3>
+                                        <h3><a href="service-details.php">Wind Eco-Power</a></h3>
                                         <p>Energy to more people in more ways every day, so that all of us can be part of the changing energy system.</p>
                                     </div>
                                 </div>
-                                <a href="service-details.html" class="link-btns">
+                                <a href="service-details.php" class="link-btns">
                                     View Details
                                 </a>
                             </div>
@@ -168,11 +168,11 @@
                                         </svg>
                                     </div>
                                     <div class="content">
-                                        <h3><a href="service-details.html">Renewable Energy</a></h3>
+                                        <h3><a href="service-details.php">Renewable Energy</a></h3>
                                         <p>Energy to more people in more ways every day, so that all of us can be part of the changing energy system.</p>
                                     </div>
                                 </div>
-                                <a href="service-details.html" class="link-btns">
+                                <a href="service-details.php" class="link-btns">
                                     View Details
                                 </a>
                             </div>
@@ -195,11 +195,11 @@
                                         </svg>
                                     </div>
                                     <div class="content">
-                                        <h3><a href="service-details.html">Solar Maintenance</a></h3>
+                                        <h3><a href="service-details.php">Solar Maintenance</a></h3>
                                         <p>Energy to more people in more ways every day, so that all of us can be part of the changing energy system.</p>
                                     </div>
                                 </div>
-                                <a href="service-details.html" class="link-btns">
+                                <a href="service-details.php" class="link-btns">
                                     View Details
                                 </a>
                             </div>
@@ -229,11 +229,11 @@
                                         </svg>
                                     </div>
                                     <div class="content">
-                                        <h3><a href="service-details.html">Energy Saving Devices</a></h3>
+                                        <h3><a href="service-details.php">Energy Saving Devices</a></h3>
                                         <p>Energy to more people in more ways every day, so that all of us can be part of the changing energy system.</p>
                                     </div>
                                 </div>
-                                <a href="service-details.html" class="link-btns">
+                                <a href="service-details.php" class="link-btns">
                                     View Details
                                 </a>
                             </div>

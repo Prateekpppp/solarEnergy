@@ -19,7 +19,7 @@
                                         <div class="text-image">
                                             <img src="assets/img/home-1/choose/text.png" alt="img">
                                         </div>
-                                        <a href="about.html" class="arrow-icon"><i class="fa-solid fa-arrow-right"></i></a>
+                                        <a href="about.php" class="arrow-icon"><i class="fa-solid fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -73,7 +73,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="bottom-items wow fadeInUp" data-wow-delay=".8s">
-                                                    <a href="about.html" class="theme-btn">
+                                                    <a href="about.php" class="theme-btn">
                                                         Discover More
                                                         <i class="fa-solid fa-arrow-up-right"></i>
                                                     </a>
@@ -114,7 +114,7 @@
                                                 </ul>
                                             </div>
                                             <div class="bottom-items">
-                                                <a href="about.html" class="theme-btn">
+                                                <a href="about.php" class="theme-btn">
                                                     Discover More
                                                     <i class="fa-solid fa-arrow-up-right"></i>
                                                 </a>
@@ -155,7 +155,7 @@
                                         </ul>
                                     </div>
                                     <div class="bottom-items">
-                                        <a href="about.html" class="theme-btn">
+                                        <a href="about.php" class="theme-btn">
                                             Discover More
                                             <i class="fa-solid fa-arrow-up-right"></i>
                                         </a>

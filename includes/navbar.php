@@ -39,7 +39,7 @@
             <div id="header-sticky" class="header-3">
                 <div class="mega-menu-wrapper">
                     <div class="header-main">
-                       <a href="index.html" class="header-logo">
+                       <a href="index.php" class="header-logo">
                             <img src="assets/img/logo/white-logo.svg" alt="img">
                         </a>
                         <div class="header-right d-flex justify-content-end align-items-center">
@@ -149,7 +149,7 @@
             <div class="mega-menu-wrapper">
                 <div class="header-main">
                     <div class="header-left">
-                        <a href="index.html" class="header-logo">
+                        <a href="index.php" class="header-logo">
                         <img src="/img/logo/black-logo.svg" alt="img">
                     </a>
                     <div class="mean__menu-wrapper">
@@ -161,13 +161,13 @@
                                         Home
                                         </a>
                                         <ul class="submenu">
-                                            <li><a href="index.html">Home Solar 01</a></li>
-                                            <li><a href="index-2.html">Home Solar 02</a></li>
-                                            <li><a href="index-3.html">Environment</a></li>
-                                            <li><a href="index-4.html">Hydro Energy</a></li>
-                                            <li><a href="index-5.html">Hydro Power</a></li>
-                                            <li><a href="index-6.html"> Wind & Energy</a></li>
-                                            <li><a href="index-7.html">Renewable & Energy</a></li>
+                                            <li><a href="index.php">Home Solar 01</a></li>
+                                            <li><a href="index-2.php">Home Solar 02</a></li>
+                                            <li><a href="index-3.php">Environment</a></li>
+                                            <li><a href="index-4.php">Hydro Energy</a></li>
+                                            <li><a href="index-5.php">Hydro Power</a></li>
+                                            <li><a href="index-6.php"> Wind & Energy</a></li>
+                                            <li><a href="index-7.php">Renewable & Energy</a></li>
                                         </ul>
                                     </li>
                                     <li class="has-dropdown">
@@ -177,7 +177,7 @@
                                         </a>
                                         <ul class="submenu">
                                             <li>
-                                                <a href="about.html">About Us</a>
+                                                <a href="about.php">About Us</a>
                                             </li>
                                             <li class="has-dropdown">
                                                 <a href="javascript:void(0)">
@@ -185,8 +185,8 @@
                                                     <i class="fas fa-angle-right"></i>
                                                 </a>
                                                 <ul class="submenu">
-                                                    <li><a href="team.html">Our Team</a></li>
-                                                    <li><a href="team-details.html">Team Details</a></li>
+                                                    <li><a href="team.php">Our Team</a></li>
+                                                    <li><a href="team-details.php">Team Details</a></li>
                                                 </ul>
                                             </li>
                                             <li class="has-dropdown">
@@ -195,15 +195,15 @@
                                                     <i class="fas fa-angle-right"></i>
                                                 </a>
                                                 <ul class="submenu">
-                                                    <li><a href="shop.html">Shop Page</a></li>
+                                                    <li><a href="shop.php">Shop Page</a></li>
                                                     <li><a href="productDetail.php">Shop Details</a></li>
                                                     <li><a href="productDetail.php">Shop Cart</a></li>
-                                                    <li><a href="checkout.html">CheckOut</a></li>
+                                                    <li><a href="checkout.php">CheckOut</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="pricing.html">Pricing Plan</a></li>
-                                            <li><a href="faq.html">Faqs</a></li>
-                                            <li><a href="404.html">404 Error</a></li>
+                                            <li><a href="pricing.php">Pricing Plan</a></li>
+                                            <li><a href="faq.php">Faqs</a></li>
+                                            <li><a href="404.php">404 Error</a></li>
                                         </ul>
                                     </li>
                                         <li>
@@ -212,8 +212,8 @@
                                             <i class="fas fa-chevron-down"></i>
                                         </a>
                                         <ul class="submenu">
-                                            <li><a href="service.html">Our Services</a></li>
-                                            <li><a href="service-details.html">Service Details</a></li>
+                                            <li><a href="service.php">Our Services</a></li>
+                                            <li><a href="service-details.php">Service Details</a></li>
                                         </ul>
                                     </li>
                                     <li>
@@ -222,8 +222,8 @@
                                             <i class="fas fa-chevron-down"></i>
                                         </a>
                                         <ul class="submenu">
-                                            <li><a href="project.html">Our Project</a></li>
-                                            <li><a href="project-details.html">Project Details</a></li>
+                                            <li><a href="project.php">Our Project</a></li>
+                                            <li><a href="project-details.php">Project Details</a></li>
                                         </ul>
                                     </li>
                                     <li>
@@ -232,12 +232,12 @@
                                             <i class="fas fa-chevron-down"></i>
                                         </a>
                                         <ul class="submenu">
-                                            <li><a href="news.html">Our News</a></li>
-                                            <li><a href="news-details.html">News Details</a></li>
+                                            <li><a href="news.php">Our News</a></li>
+                                            <li><a href="news-details.php">News Details</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="contact.html">
+                                        <a href="contact.php">
                                             Contact
                                         </a>
                                     </li>
@@ -248,7 +248,7 @@
                     </div>
                     
                     <div class="header-right d-flex justify-content-end align-items-center">
-                        <a href="contact.html" class="theme-btn d-none d-xl-block">
+                        <a href="contact.php" class="theme-btn d-none d-xl-block">
                         Get In Touch
                             <i class="fa-solid fa-arrow-up-right"></i>
                         </a>

@@ -25,7 +25,7 @@
                                         </h1>
                                     </div>
                                     <div class="hero-button">
-                                        <a href="service.html" class="theme-btn">
+                                        <a href="service.php" class="theme-btn">
                                             View Our Services
                                             <i class="fa-solid fa-arrow-up-right"></i>
                                         </a>
@@ -40,7 +40,7 @@
                                             </div>
                                             <div class="feature-number">
                                                 <h6>01</h6>
-                                                <a href="about.html" class="arrow-icon">
+                                                <a href="about.php" class="arrow-icon">
                                                     <i class="fal fa-long-arrow-up"></i>
                                                 </a>
                                             </div>
@@ -54,7 +54,7 @@
                                             </div>
                                             <div class="feature-number">
                                                 <h6>02</h6>
-                                                <a href="about.html" class="arrow-icon">
+                                                <a href="about.php" class="arrow-icon">
                                                     <i class="fal fa-long-arrow-up"></i>
                                                 </a>
                                             </div>
@@ -78,7 +78,7 @@
                                         </h1>
                                     </div>
                                     <div class="hero-button">
-                                        <a href="service.html" class="theme-btn">
+                                        <a href="service.php" class="theme-btn">
                                             View Our Services
                                             <i class="fa-solid fa-arrow-up-right"></i>
                                         </a>
@@ -93,7 +93,7 @@
                                             </div>
                                             <div class="feature-number">
                                                 <h6>01</h6>
-                                                <a href="about.html" class="arrow-icon">
+                                                <a href="about.php" class="arrow-icon">
                                                     <i class="fal fa-long-arrow-up"></i>
                                                 </a>
                                             </div>
@@ -107,7 +107,7 @@
                                             </div>
                                             <div class="feature-number">
                                                 <h6>02</h6>
-                                                <a href="about.html" class="arrow-icon">
+                                                <a href="about.php" class="arrow-icon">
                                                     <i class="fal fa-long-arrow-up"></i>
                                                 </a>
                                             </div>
