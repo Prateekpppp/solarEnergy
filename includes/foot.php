@@ -1,34 +1,32 @@
 
+                </div>
 <?php
 
-    include('includes/ctaSection.php');
     include('includes/footer.php');
 
 ?>
 
             </div>
         </div>
+    </div>
 <?php
 
    include('includes/app_toast.php');
     ?>
-    <script src="assets/js/jquery-3.7.1.min.js"></script>
-    <script src="assets/js/viewport.jquery.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/gsap.min.js"></script>
-    <script src="assets/js/ScrollTrigger.min.js"></script>
-    <script src="assets/js/ScrollSmoother.min.js"></script>
-    <script src="assets/js/ScrollToPlugin.min.js"></script>
-    <script src="assets/js/SplitText.min.js"></script>
-    <script src="assets/js/TextPlugin.js"></script>
-    <script src="assets/js/jquery.nice-select.min.js"></script>
-    <script src="assets/js/jquery.waypoints.min.js"></script>
-    <script src="assets/js/jquery.counterup.min.js"></script>
-    <script src="assets/js/swiper-bundle.min.js"></script>
-    <script src="assets/js/jquery.meanmenu.min.js"></script>
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="assets/vendors/js/vendor.bundle.base.js"></script>
+    <script src="assets/vendors/chart.js/chart.umd.js"></script>
+    <script src="assets/vendors/progressbar.js/progressbar.min.js"></script>
+    <script src="assets/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
+    <script src="assets/vendors/jquery-bar-rating/jquery.barrating.min.js"></script>
+    <script src="assets/vendors/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <script src="assets/vendors/raphael/raphael.min.js"></script>
+    <script src="assets/vendors/morris.js/morris.min.js"></script>
+    <script src="assets/js/off-canvas.js"></script>
+    <script src="assets/js/hoverable-collapse.js"></script>
+    <script src="assets/js/template.js"></script>
+    <script src="assets/js/settings.js"></script>
+    <script src="assets/js/todolist.js"></script>
+    <script src="assets/js/dashboard.js"></script>
 <?php
    include('includes/ajaxCalls.php');
    include('includes/script.php');
