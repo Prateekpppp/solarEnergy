@@ -1,5 +1,6 @@
 <?php 
 
+$companyTitle = 'Aditya Solar Services';
 $email = 'info@adityservices.com';
 $phone = '9878976895';
 $address = 'Kankarbagh, Patna, Bihar ';

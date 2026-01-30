@@ -137,10 +137,10 @@
                                 <div class="content">
                                     <h6>Contact us:</h6>
                                     <p>
-                                        <a href="tel:+483939993900">+483 9399 939 00</a>
+                                        <a href="tel:+91 <?= $phone ?>">+91 <?= $phone ?></a>
                                     </p>
                                     <p class="mt-2">
-                                        <a href="mailto:info@example.com">helloEcoly@gmail.com</a>
+                                        <a href="mailto:<?= $email ?>"><?= $email ?></a>
                                     </p>
                                 </div>
                             </div>
@@ -151,7 +151,7 @@
                                 <div class="content">
                                     <h6>Our Location:</h6>
                                     <p>
-                                        2220 Plymouth Rd 302, Hopkins, <br> New York, USA
+                                        <?= $address ?>
                                     </p>
                                 </div>
                             </div>
