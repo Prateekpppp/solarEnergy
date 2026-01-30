@@ -16,34 +16,54 @@
                         </div>
                         <div class="swiper brand-slider">
                             <div class="swiper-wrapper">
+                                <!-- <div class="swiper-slide">
+                                    <div class="brand-image text-center">
+                                        <img src="assets/img/clients/client1.jpg" alt="img">
+                                    </div>
+                                </div> -->
                                 <div class="swiper-slide">
                                     <div class="brand-image text-center">
-                                        <img src="assets/img/home-1/brand/brand-01.png" alt="img">
+                                        <img src="assets/img/clients/client2.jpg" alt="img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="brand-image text-center">
-                                        <img src="assets/img/home-1/brand/brand-02.png" alt="img">
+                                        <img src="assets/img/clients/client3.jpg" alt="img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="brand-image text-center">
-                                        <img src="assets/img/home-1/brand/brand-03.png" alt="img">
+                                        <img src="assets/img/clients/client4.jpg" alt="img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="brand-image text-center">
-                                        <img src="assets/img/home-1/brand/brand-04.png" alt="img">
+                                        <img src="assets/img/clients/client5.jpg" alt="img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="brand-image text-center">
-                                        <img src="assets/img/home-1/brand/brand-05.png" alt="img">
+                                        <img src="assets/img/clients/client6.jpg" alt="img">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="brand-image text-center">
-                                        <img src="assets/img/home-1/brand/brand-06.png" alt="img">
+                                        <img src="assets/img/clients/client7.jpg" alt="img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="brand-image text-center">
+                                        <img src="assets/img/clients/client8.jpg" alt="img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="brand-image text-center">
+                                        <img src="assets/img/clients/client9.jpg" alt="img">
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="brand-image text-center">
+                                        <img src="assets/img/clients/client10.jpg" alt="img">
                                     </div>
                                 </div>
                             </div>
@@ -68,7 +88,8 @@
                             <div class="col-lg-8">
                                 <div class="about-content-style-1">
                                     <div class="section-title mb-0">
-                                        <h2 class="text_invert-2">Discover our journey of delivering eco-friendly solar power that empowers communities and protects the planet</h2>
+                                        <h2 class="text_invert-2">Welcome to <?= $companyTitle ?></h2>
+                                        <p><?= $companyTitle ?> is a leader in the renewable energy sector, dedicated to transforming how the world consumes power. With a focus on high-efficiency N-Type modules / solar cells, we aim to provide reliable, affordable, and innovative energy solutions to homeowners and businesses alike. </p>
                                     </div>
                                     <div class="list-items">
                                         <ul class="wow fadeInUp" data-wow-delay=".2s">
@@ -98,8 +119,8 @@
                                                 <img src="assets/img/home-1/about/icon-1.svg" alt="img">
                                             </div>
                                             <div class="content">
-                                                <h2><span class="count">456</span>K+</h2>
-                                                <p>Our design philosophy is more than aesthetics</p>
+                                                <h2><span class="count">1000</span>+</h2>
+                                                <p>Happy Clients</p>
                                             </div>
                                         </div>
                                         <div class="icon-box-items wow fadeInUp" data-wow-delay=".8s">
@@ -107,8 +128,8 @@
                                                 <img src="assets/img/home-1/about/icon-2.svg" alt="img">
                                             </div>
                                             <div class="content">
-                                                <h2><span class="count">97</span>%</h2>
-                                                <p>Customers are served behind the digital marketing</p>
+                                                <h2><span class="count">20</span>+</h2>
+                                                <p>Clients</p>
                                             </div>
                                         </div>
                                     </div>
@@ -210,9 +231,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="service-image fix">
+                    <!-- <div class="service-image fix">
                         <img data-speed=".8" src="img/home-1/service/service-01.jpg" alt="img">
-                    </div>
+                    </div> -->
                 </section>
 
                 <!-- Choose Us Section Start -->
@@ -234,7 +255,7 @@
                                 <div class="choose-content-style-1">
                                     <div class="section-title mb-0">
                                         <h6 class="sub-title wow fadeInUp"><img src="assets/img/sub-title-1.svg" alt="img">WHY CHOOSE US</h6>
-                                        <h2 class="text-anim">Ecoly believes in sustainable energy practices</h2>
+                                        <!-- <h2 class="text-anim">Ecoly believes in sustainable energy practices</h2> -->
                                     </div>
                                     <ul class="nav">
                                         <li class="nav-item wow fadeInUp" data-wow-delay=".2s">
@@ -255,127 +276,13 @@
                                     </ul>
                                     <div class="tab-content">
                                         <div id="About" class="tab-pane fade show active">
-                                            <p class="choose-text wow fadeInUp" data-wow-delay=".2s">Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                                <div class="icon-box-items wow fadeInUp" data-wow-delay=".4s">
-                                                    <div class="icon">
-                                                        <img src="assets/img/home-1/choose/icon-1.svg" alt="img">
-                                                    </div>
-                                                    <div class="content">
-                                                        <h4>Modern Technology</h4>
-                                                        <p>People in more ways every day, so that all of us can be part of the changing energy system.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="list-items wow fadeInUp" data-wow-delay=".6s">
-                                                    <ul>
-                                                        <li>
-                                                            <img src="assets/img/home-1/about/check-icon.svg" alt="img">
-                                                            Expert Installation
-                                                        </li>
-                                                    </ul>
-                                                    <ul>
-                                                        <li>
-                                                            <img src="assets/img/home-1/about/check-icon.svg" alt="img">
-                                                            Battery Storage Solutions
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                                <div class="bottom-items wow fadeInUp" data-wow-delay=".8s">
-                                                    <a href="about.php" class="theme-btn">
-                                                        Discover More
-                                                        <i class="fa-solid fa-arrow-up-right"></i>
-                                                    </a>
-                                                    <div class="phone-box-items">
-                                                        <div class="icon">
-                                                            <i class="fa-thin fa-circle-phone"></i>
-                                                        </div>
-                                                        <div class="content">
-                                                            <p>Talk To Us</p>
-                                                            <a href="tel:(+25)2582355889">(+25) 258 235 5889</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                            <p class="choose-text wow fadeInUp" data-wow-delay=".2s">With state-of-the-art manufacturing facilities in India, and 10,000+ successful project executions, we combine proven expertise with world-class execution. Backed by robust R&D, industry-first innovations, and a deep commitment to sustainability, Waaree continues to power a cleaner, greener, and more resilient future.</p>
                                         </div>
                                         <div id="Mission" class="tab-pane fade">
-                                            <p class="choose-text">Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                            <div class="icon-box-items">
-                                                <div class="icon">
-                                                    <img src="assets/img/home-1/choose/icon-1.svg" alt="img">
-                                                </div>
-                                                <div class="content">
-                                                    <h4>Modern Technology</h4>
-                                                    <p>People in more ways every day, so that all of us can be part of the changing energy system.</p>
-                                                </div>
-                                            </div>
-                                            <div class="list-items">
-                                                <ul>
-                                                    <li>
-                                                        <img src="assets/img/home-1/about/check-icon.svg" alt="img">
-                                                        Expert Installation
-                                                    </li>
-                                                </ul>
-                                                <ul>
-                                                    <li>
-                                                        <img src="assets/img/home-1/about/check-icon.svg" alt="img">
-                                                        Battery Storage Solutions
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="bottom-items">
-                                                <a href="about.php" class="theme-btn">
-                                                    Discover More
-                                                    <i class="fa-solid fa-arrow-up-right"></i>
-                                                </a>
-                                                <div class="phone-box-items">
-                                                    <div class="icon">
-                                                        <i class="fa-thin fa-circle-phone"></i>
-                                                    </div>
-                                                    <div class="content">
-                                                        <p>Talk To Us</p>
-                                                        <a href="tel:(+25)2582355889">(+25) 258 235 5889</a>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                            <p class="choose-text">We at <?= $companyTitle ?> are focused towards contributing to national and global solar transition targets. With extensive experience is commissioning ground mounted and rooftop projects for Government and private entities, in utility, health, education, industry and consumer sectors, and impressive portfolio of advanced technology modules we are advancing in creating climate for change.</p>
                                         </div>
                                         <div id="Vision" class="tab-pane fade">
-                                            <p class="choose-text">Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                    <div class="icon-box-items">
-                                        <div class="icon">
-                                            <img src="assets/img/home-1/choose/icon-1.svg" alt="img">
-                                        </div>
-                                        <div class="content">
-                                            <h4>Modern Technology</h4>
-                                            <p>People in more ways every day, so that all of us can be part of the changing energy system.</p>
-                                        </div>
-                                    </div>
-                                    <div class="list-items">
-                                        <ul>
-                                            <li>
-                                                <img src="assets/img/home-1/about/check-icon.svg" alt="img">
-                                                Expert Installation
-                                            </li>
-                                        </ul>
-                                        <ul>
-                                            <li>
-                                                <img src="assets/img/home-1/about/check-icon.svg" alt="img">
-                                                Battery Storage Solutions
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="bottom-items">
-                                        <a href="about.php" class="theme-btn">
-                                            Discover More
-                                            <i class="fa-solid fa-arrow-up-right"></i>
-                                        </a>
-                                        <div class="phone-box-items">
-                                            <div class="icon">
-                                                <i class="fa-thin fa-circle-phone"></i>
-                                            </div>
-                                            <div class="content">
-                                                <p>Talk To Us</p>
-                                                <a href="tel:(+25)2582355889">(+25) 258 235 5889</a>
-                                            </div>
-                                        </div>
-                                    </div>
+                                            <p class="choose-text">Our vision is to make sustainable energy accessible and affordable across emerging markets by delivering high-quality Renewable Solutions that reduce carbon emissions and enhance lives through a cleaner, brighter future.</p>
                                         </div>
                                     </div>
                                 </div>

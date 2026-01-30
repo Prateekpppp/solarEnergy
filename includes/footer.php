@@ -104,32 +104,16 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".8s">
-                                    <div class="footer-widget-items footer-contact-form">
-                                        <div class="footer-shape">
-                                            <img src="assets/img/home-1/footer-shape.png" alt="img">
+                                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".6s">
+                                    <div class="footer-widget-items">
+                                        <div class="google-map-items">
+                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7195.913051272897!2d85.15938736667306!3d25.606360834546525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed59554ece5703%3A0x7c5c386a0ac803eb!2sRajendra%20nagar%20station!5e0!3m2!1sen!2sin!4v1769689835953!5m2!1sen!2sin" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                         </div>
-                                        <div class="footer-shape-2">
-                                            <img src="assets/img/home-1/footer-shape-2.png" alt="img">
-                                        </div>
-                                        <div class="icon">
-                                            <img src="assets/img/home-1/email.svg" alt="img">
-                                        </div>
-                                        <h3>Sign Up to Our Newsletter</h3>
-                                        <p>
-                                            Subscribe to our Newsletter and Event right now to be updated
-                                        </p>
-                                        <form action="#">
-                                            <input type="text" placeholder="Your email">
-                                            <button class="theme-btn" type="submit">
-                                                Subscribe Now
-                                            </button>
-                                        </form>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="footer-info-bottom">
+                        <div class="footer-info-bottom d-none">
                             <div class="info-item wow fadeInUp" data-wow-delay=".2s">
                                 <div class="icon">
                                     <img src="assets/img/home-1/icon/icon1.svg" alt="">

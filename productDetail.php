@@ -81,7 +81,7 @@
                                     <input type="number" name="qty" id="qty2" min="1" max="10" step="1" value="1">
                                     <button class="qtyplus" aria-hidden="true">+</button>
                                 </p>
-                                <a href="productDetail.php" class="shop-btn theme-btn">Add to cart</a>
+                                <a href="productDetail.php" class="shop-btn theme-btn">Get Quote</a>
                                 <div class="icon-item">
                                     <a href="productDetail.php" class="icon">
                                         <i class="far fa-heart"></i>
@@ -336,7 +336,7 @@
                                         <del>$999.00</del>
                                     </li>
                                 </ul>
-                                <a href="productDetail.php" class="theme-btn">ADD TO CART</a>
+                                <a href="productDetail.php" class="theme-btn">Get Quote</a>
                             </div>
                         </div>
                     </div>

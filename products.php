@@ -14,7 +14,7 @@
                         <div class="row g-4">
                             <div class="col-lgdfg-8 order-1 order-lg-2">
                                 <div class="row g-4">
-                                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp">
+                                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp">
                                         <div class="shop-box-style-item">
                                             <div class="shop-image">
                                                 <img src="assets/img/inner/shop/shop-01.jpg" alt="img">
@@ -50,11 +50,11 @@
                                                         <del>$516.00</del>
                                                     </li>
                                                 </ul>
-                                                <a href="productDetail.php" class="theme-btn">ADD TO CART</a>
+                                                <a href="productDetail.php" class="theme-btn">Get Quote</a>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".2s">
+                                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                                         <div class="shop-box-style-item">
                                             <div class="shop-image">
                                                 <img src="assets/img/inner/shop/shop-02.jpg" alt="img">
@@ -90,7 +90,7 @@
                                                         <del>$999.00</del>
                                                     </li>
                                                 </ul>
-                                                <a href="productDetail.php" class="theme-btn">ADD TO CART</a>
+                                                <a href="productDetail.php" class="theme-btn">Get Quote</a>
                                             </div>
                                         </div>
                                     </div>

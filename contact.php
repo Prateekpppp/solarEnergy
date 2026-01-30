@@ -24,7 +24,7 @@
                                         </div>
                                         <div class="content">
                                             <p>Call Us 7/24</p>
-                                            <h5><a href="tel:+2085550112">+91 <?= $phone ?></a></h5>
+                                            <h5><a href="tel:+91 <?= $phone ?>">+91 <?= $phone ?></a></h5>
                                         </div>
                                     </div>
                                 </div>

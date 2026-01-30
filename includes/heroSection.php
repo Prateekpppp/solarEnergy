@@ -18,10 +18,10 @@
                                 <div class="col-lg-12">
                                     <div class="hero-content">
                                         <h1>
-                                            <span class="shape-1">
+                                            <!-- <span class="shape-1">
                                                 <img src="assets/img/home-3/hero/shape-1.png" alt="img">
-                                            </span>
-                                            <span class="text">Powerful</span> <br> Solution Protect <br> Environment
+                                            </span> -->
+                                            <span class="">Powerful</span> <br> Solution Protect <br> Environment
                                         </h1>
                                     </div>
                                     <div class="hero-button">
@@ -29,36 +29,6 @@
                                             View Our Services
                                             <i class="fa-solid fa-arrow-up-right"></i>
                                         </a>
-                                    </div>
-                                    <div class="hero-feature-area">
-                                        <div class="hero-feature-items">
-                                            <div class="icon-text">
-                                                <div class="icon">
-                                                    <img src="assets/img/home-3/hero/icon1.svg" alt="img">
-                                                </div>
-                                                <h3>Expert Our <br> Installation Team</h3>
-                                            </div>
-                                            <div class="feature-number">
-                                                <h6>01</h6>
-                                                <a href="about.php" class="arrow-icon">
-                                                    <i class="fal fa-long-arrow-up"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="hero-feature-items">
-                                            <div class="icon-text">
-                                                <div class="icon">
-                                                    <img src="assets/img/home-3/hero/icon2.svg" alt="img">
-                                                </div>
-                                                <h3>24 Hours Our <br> Clients Supports</h3>
-                                            </div>
-                                            <div class="feature-number">
-                                                <h6>02</h6>
-                                                <a href="about.php" class="arrow-icon">
-                                                    <i class="fal fa-long-arrow-up"></i>
-                                                </a>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -71,10 +41,10 @@
                                 <div class="col-lg-12">
                                     <div class="hero-content">
                                         <h1>
-                                            <span class="shape-1">
+                                            <!-- <span class="shape-1">
                                                 <img src="assets/img/home-3/hero/shape-1.png" alt="img">
-                                            </span>
-                                            <span class="text">Powerful</span> <br> Solution Protect <br> Environment
+                                            </span> -->
+                                            <span class="">Powerful</span> <br> Solution Protect <br> Environment
                                         </h1>
                                     </div>
                                     <div class="hero-button">
@@ -82,36 +52,6 @@
                                             View Our Services
                                             <i class="fa-solid fa-arrow-up-right"></i>
                                         </a>
-                                    </div>
-                                    <div class="hero-feature-area">
-                                        <div class="hero-feature-items">
-                                            <div class="icon-text">
-                                                <div class="icon">
-                                                    <img src="assets/img/home-3/hero/icon1.svg" alt="img">
-                                                </div>
-                                                <h3>Expert Our <br> Installation Team</h3>
-                                            </div>
-                                            <div class="feature-number">
-                                                <h6>01</h6>
-                                                <a href="about.php" class="arrow-icon">
-                                                    <i class="fal fa-long-arrow-up"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="hero-feature-items">
-                                            <div class="icon-text">
-                                                <div class="icon">
-                                                    <img src="assets/img/home-3/hero/icon2.svg" alt="img">
-                                                </div>
-                                                <h3>24 Hours Our <br> Clients Supports</h3>
-                                            </div>
-                                            <div class="feature-number">
-                                                <h6>02</h6>
-                                                <a href="about.php" class="arrow-icon">
-                                                    <i class="fal fa-long-arrow-up"></i>
-                                                </a>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
