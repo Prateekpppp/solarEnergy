@@ -16,8 +16,8 @@
                                 </button>
                             </div>
                         </div>
-                        <h3 class="offcanvas-title">Hello There!</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi natus quasi sunt eum ducimus. </p>
+                        <!-- <h3 class="offcanvas-title">Hello There!</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi natus quasi sunt eum ducimus. </p> -->
                         <div class="mobile-menu fix mt-15"></div>
                         <div class="social-icon d-flex align-items-center">
                             <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
@@ -35,7 +35,9 @@
                                     </div>
                                     <div class="content">
                                         <p>Call Us</p>
-                                        <h4><a href="tel:+4903983493999">+49 (03) 9834 939 99</a></h4>
+                                        <h4><a href="tel:+91 <?= $phone ?>">+91 <?= $phone ?></a></h4>
+                                        <h4><a href="tel:+91 <?= $phone1 ?>">+91 <?= $phone1 ?></a></h4>
+                                        <h4><a href="tel:+91 <?= $phone2 ?>">+91 <?= $phone2 ?></a></h4>
                                     </div>
                                 </li>
                                 <li>
@@ -44,7 +46,7 @@
                                     </div>
                                     <div class="content">
                                         <p>Send Email</p>
-                                        <h4><a href="mailto:yordomain@gmial.com">yordomain@gmial.com</a></h4>
+                                        <h4><a href="mailto:<?= $email ?>"><?= $email ?></a></h4>
                                     </div>
                                 </li>
                                 <li>
@@ -54,13 +56,13 @@
                                     <div class="content">
                                         <p>Location</p>
                                         <h4>
-                                            Chicago 53755 NY, USA
+                                            <?= $address ?>
                                         </h4>
                                     </div>
                                 </li>
                             </ul>
                         </div>
-                       <a href="contact.php" class="theme-btn">Get A Quote <i class="fa-solid fa-arrow-up-right"></i></a>
+                       <!-- <a href="contact.php" class="theme-btn">Get A Quote <i class="fa-solid fa-arrow-up-right"></i></a> -->
                     </div>
                 </div>
             </div>

@@ -1,8 +1,10 @@
 <?php 
 
-$companyTitle = 'Aditya Solar Services';
-$email = 'info@adityservices.com';
-$phone = '9878976895';
+$companyTitle = 'Aditya Solar Solutions';
+$email = 'info@aditysolutions.com';
+$phone = '7219426622';
+$phone1 = '9852306579';
+$phone2 = '7979062068';
 $address = 'Kankarbagh, Patna, Bihar ';
 
 ?>
@@ -39,12 +41,12 @@ $address = 'Kankarbagh, Patna, Bihar ';
     
 <?php
 
-   include('includes/preloader.php');
+   // include('includes/preloader.php');
    include('includes/backtotop.php');
    include('includes/mouseCursor.php');
    include('includes/offCanvas.php');
    include('includes/navbar.php');
-   include('includes/searchStart.php');
+   // include('includes/searchStart.php');
 
 ?>
         <div id="smooth-wrapper">

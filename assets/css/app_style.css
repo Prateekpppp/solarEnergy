@@ -93,3 +93,26 @@ a {
 #mobile-navbar.collapse {
   visibility: visible;
 }
+
+.testi-text {
+  color: #000;
+}
+
+@media (max-width: 575px) {
+  p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .about-content-style-1 .bottom-items .icon-box-items {
+    gap: 0;
+  }
+
+  h2.text-anim {
+    font-size: 24px;
+  }
+  
+  .video-wrapper img {
+    height: auto !important;
+  }
+}

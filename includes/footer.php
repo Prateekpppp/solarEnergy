@@ -36,11 +36,6 @@
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="team.php">
-                                                    <i class="fa-regular fa-chevrons-right"></i> Meet Member
-                                                </a>
-                                            </li>
-                                            <li>
                                                 <a href="contact.php">
                                                     <i class="fa-regular fa-chevrons-right"></i> Contact Us
                                                 </a>
@@ -121,7 +116,9 @@
                                 <div class="content">
                                     <h6>Contact us:</h6>
                                     <p>
-                                        <a href="tel:+91 <?= $phone ?>">+91 <?= $phone ?></a>
+                                        <a href="tel:+91 <?= $phone ?>">(+91) <?= $phone ?></a>
+                                        <a href="tel:+91 <?= $phone1 ?>">(+91) <?= $phone1 ?></a>
+                                        <a href="tel:+91 <?= $phone2 ?>">(+91) <?= $phone2 ?></a>
                                     </p>
                                     <p class="mt-2">
                                         <a href="mailto:<?= $email ?>"><?= $email ?></a>

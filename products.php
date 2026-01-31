@@ -50,7 +50,7 @@
                                                         <del>$516.00</del>
                                                     </li>
                                                 </ul>
-                                                <a href="productDetail.php" class="theme-btn">Get Quote</a>
+                                                <a href="productDetail.php" class="theme-btn">View</a>
                                             </div>
                                         </div>
                                     </div>
@@ -90,7 +90,7 @@
                                                         <del>$999.00</del>
                                                     </li>
                                                 </ul>
-                                                <a href="productDetail.php" class="theme-btn">Get Quote</a>
+                                                <a href="productDetail.php" class="theme-btn">View</a>
                                             </div>
                                         </div>
                                     </div>

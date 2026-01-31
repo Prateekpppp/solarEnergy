@@ -21,7 +21,7 @@
                                             <!-- <span class="shape-1">
                                                 <img src="assets/img/home-3/hero/shape-1.png" alt="img">
                                             </span> -->
-                                            <span class="">Powerful</span> <br> Solution Protect <br> Environment
+                                            <span class="">Best</span> <br> Solar Service Provider
                                         </h1>
                                     </div>
                                     <div class="hero-button">
@@ -44,7 +44,7 @@
                                             <!-- <span class="shape-1">
                                                 <img src="assets/img/home-3/hero/shape-1.png" alt="img">
                                             </span> -->
-                                            <span class="">Powerful</span> <br> Solution Protect <br> Environment
+                                            <span class="">Powerful</span> <br> Solution Protect Environment
                                         </h1>
                                     </div>
                                     <div class="hero-button">

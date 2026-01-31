@@ -77,6 +77,23 @@
                                             Why Choose Us
                                         </a>
                                     </li>
+                                    <li class="has-dropdown">
+                                        <a href="javascript:void(0)" class="border-none">
+                                        Projects
+                                        </a>
+                                        <ul class="submenu">
+                                            <li>
+                                                <a href="gallery.php">
+                                                    Gallery
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="videos.php">
+                                                    Videos
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
                                     <li>
                                         <a href="career.php">
                                             Career
@@ -87,25 +104,15 @@
                                             Contact
                                         </a>
                                     </li>
-                                    <li>
-                                        <a href="gallery.php">
-                                            Gallery
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="videos.php">
-                                            Videos
-                                        </a>
-                                    </li>
                                     
                                 </ul>
                             </nav>
                             </div>
                         </div>
                             <div class="head-right">
-                                <a href="#" class="main-header__search search-toggler">
+                                <!-- <a href="#" class="main-header__search search-toggler">
                                     <i class="fa-regular fa-magnifying-glass"></i>
-                                </a>
+                                </a> -->
                                 <div class="contact-item">
                                     <div class="icon">
                                        <i class="fa-solid fa-phone-xmark"></i>
@@ -113,21 +120,16 @@
                                     <div class="content">
                                         <span>Call Us 24/7</span>
                                         <h6>
-                                            <a href="tel:+00479394888">+91 <?= $phone ?></a>
+                                            <a href="tel:+91 <?= $phone ?>">+91 <?= $phone ?></a>
                                         </h6>
+                                        <!-- <h6>
+                                            <a href="tel:+91 <?= $phone1 ?>">+91 <?= $phone1 ?></a>
+                                        </h6>
+                                        <h6>
+                                            <a href="tel:+91 <?= $phone2 ?>">+91 <?= $phone2 ?></a>
+                                        </h6> -->
                                     </div>
                                 </div>
-                                <!-- <div class="line-shape"></div>
-                                <div class="flag-wrap">
-                                    <div class="flag">
-                                        <img src="assets/img/flag.png" alt="flag">
-                                    </div>
-                                    <select class="single-select w-100">
-                                        <option>EN</option>
-                                        <option>AU</option>
-                                        <option>NZ</option>
-                                    </select>
-                                </div> -->
                             </div>
                             <div class="header__hamburger my-auto d-xl-none">
                                 <div class="sidebar__toggle">

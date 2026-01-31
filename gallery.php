@@ -14,38 +14,50 @@
                         <div class="row g-4">
                             <div class="col-lgdfg-8 order-1 order-lg-2">
                                 <div class="row g-4">
-                                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp">
+                                    <div class="col-xl-4 col-lg-6 col-md-6 col-6 wow fadeInUp">
                                         <div class="shop-box-style-item">
                                             <div class="shop-image">
-                                                <img src="assets/img/inner/shop/shop-01.jpg" alt="img">
+                                                <a href="assets/img/inner/shop/shop-01.jpg" target="_blank">
+                                                    <a href="assets/img/inner/shop/shop-01.jpg" target="_blank">
+                                                    <img src="assets/img/inner/shop/shop-01.jpg" alt="img">
+                                                </a>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp">
+                                    <div class="col-xl-4 col-lg-6 col-md-6 col-6 wow fadeInUp">
                                         <div class="shop-box-style-item">
                                             <div class="shop-image">
-                                                <img src="assets/img/inner/shop/shop-01.jpg" alt="img">
+                                                <a href="assets/img/inner/shop/shop-01.jpg" target="_blank">
+                                                    <img src="assets/img/inner/shop/shop-01.jpg" alt="img">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp">
+                                    <div class="col-xl-4 col-lg-6 col-md-6 col-6 wow fadeInUp">
                                         <div class="shop-box-style-item">
                                             <div class="shop-image">
-                                                <img src="assets/img/inner/shop/shop-01.jpg" alt="img">
+                                                <a href="assets/img/inner/shop/shop-01.jpg" target="_blank">
+                                                    <img src="assets/img/inner/shop/shop-01.jpg" alt="img">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp">
+                                    <div class="col-xl-4 col-lg-6 col-md-6 col-6 wow fadeInUp">
                                         <div class="shop-box-style-item">
                                             <div class="shop-image">
-                                                <img src="assets/img/inner/shop/shop-01.jpg" alt="img">
+                                                <a href="assets/img/inner/shop/shop-01.jpg" target="_blank">
+                                                    <img src="assets/img/inner/shop/shop-01.jpg" alt="img">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp">
+                                    <div class="col-xl-4 col-lg-6 col-md-6 col-6 wow fadeInUp">
                                         <div class="shop-box-style-item">
                                             <div class="shop-image">
-                                                <img src="assets/img/inner/shop/shop-01.jpg" alt="img">
+                                                <a href="assets/img/inner/shop/shop-01.jpg" target="_blank">
+                                                    <img src="assets/img/inner/shop/shop-01.jpg" alt="img">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
